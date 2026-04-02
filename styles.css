@@ -6,7 +6,7 @@
 
 body {
     font-family: Arial, sans-serif; /* Set the font */
-    background-color: #f4f4f4;      /* Light gray background */
+    background-color: lightgreen;     /* Light gray background */
     color: #333;                    /* Dark text color */
     line-height: 1.6;               /* Improves readability */
 }
